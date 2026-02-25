@@ -6,4 +6,3 @@ Can you complete this honorable mission?
 
 
 Game build in Unity, using C#, for fun :)
-Includes: props, animations, music player for different actions, aggresive mobs
