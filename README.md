@@ -5,4 +5,5 @@ Lost Treasure is a 2D RPG videogame i build in highschool. You play in the role 
 Can you complete this honorable mission?
 
 
-Game build in Unity, using C#
+Game build in Unity, using C#, for fun :)
+Includes: props, animations, music player for different actions, aggresive mobs
